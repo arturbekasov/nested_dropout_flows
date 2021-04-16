@@ -1,0 +1,6 @@
+{
+  "dataset": "fashion-mnist",
+  "num_bits": 8,
+  "pad": 2,
+  "valid_size": 10000
+}

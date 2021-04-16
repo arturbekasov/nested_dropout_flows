@@ -1,0 +1,13 @@
+{
+  "levels": 3,
+  "steps_per_level": 4,
+  "step_config" : {
+    "actnorm": true,
+    "dropout_prob": 0.0,
+    "hidden_channels": 128,
+    "num_bins": 4,
+    "num_res_blocks": 3,
+    "resnet_batchnorm": true,
+    "spline_type": "rational_quadratic"
+  }
+}

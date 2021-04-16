@@ -1,0 +1,6 @@
+torchvision==0.7.0
+numpy==1.19.1
+matplotlib==3.2.2
+scipy==1.5.2
+torch==1.6.0
+nflows==0.14
