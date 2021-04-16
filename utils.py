@@ -27,7 +27,8 @@ def tensor2numpy(x):
 
 
 class Preprocess:
-    """A pre-processing """
+    """A pre-processing transformation that converts the pixel values to the expected range, re-samples 
+    the data to a different quantization precision if needed, and dequantizes the data with uniform dequantization."""
     def __init__(self, num_bits):
         self.num_bits = num_bits
         self.num_bins = 2 ** self.num_bits
