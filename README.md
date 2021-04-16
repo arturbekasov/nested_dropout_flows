@@ -4,6 +4,8 @@ Code and experiments for the paper:
 > Artur Bekasov, Iain Murray, _Ordering Dimensions with Nested Dropout Normalizing Flows_.
 > [[arXiv]](https://arxiv.org/abs/2006.08777)
 
+Presented at the Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models [[INNF+]](https://invertibleworkshop.github.io), ICML 2020.
+
 ## Dependencies 
 
 [`nflows`](https://github.com/bayesiains/nflows) package provides flow implementations.
