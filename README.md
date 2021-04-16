@@ -39,7 +39,7 @@ To train a model:
 ```bash
 python images/train.py\
   --data_dir ...\     # Where to store downloaded data
-  --run_dir run_dir\   # Where to store checkpoints
+  --run_dir run_dir\  # Where to store checkpoints
   --reconstr_coef ... # Hyperparameters
 ```
 
